@@ -1,0 +1,17 @@
+远征精确计算器 NGA玩家社区
+https://bbs.nga.cn/read.php?tid=9109530
+
+用 installanywhere2009打包java程序 带有mysql数据库 - jian_csdn的专栏 - CSDN博客
+https://blog.csdn.net/jian_csdn/article/details/45251435
+
+Java生成和操作Excel文件 - 残星 - 博客园
+https://www.cnblogs.com/mingforyou/p/3282922.html
+
+java读取excel之使用JXL包 - 简书
+https://www.jianshu.com/p/1da98d77880e
+
+jxl操作excel写入数据不覆盖原有数据示例_java_脚本之家
+https://www.jb51.net/article/48327.htm
+
+java 如何将字符串写入一个已有的excel表格中_百度知道
+https://zhidao.baidu.com/question/2202462087446356388.html

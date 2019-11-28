@@ -1,0 +1,20 @@
+因为之前一直在用KC3改自带的远征计算器，但是某一天田中先生把远征改了（指修复了远征队不吃桶的bug），KC3改的计算器就变成白屏了，我想了想算法也不复杂，就摸了两天自己写了个工具出来。
+技术有限（指只会做基础操作）所以根本没有计算舰队消耗和刷闪加成，只有普通的数据，如果需要可以自行修改数据表。
+需要源码的话可以与我联系（虽然我觉得这么菜的东西也没人想看）：592128947@qq.com
+
+非常冒昧地未联系就直接使用了zakuhuman大佬的表格数据，如果介意的话我立即删除。
+新的远征数据来自萌娘百科。
+
+以下是制（mo）作（yu）过程中参考的资料。
+远征精确计算器 NGA玩家社区
+https://bbs.nga.cn/read.php?tid=9109530
+艦隊Collection/遠征 - 萌娘百科 萬物皆可萌的百科全書
+https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E8%BF%9C%E5%BE%81
+Java生成和操作Excel文件 - 残星 - 博客园
+https://www.cnblogs.com/mingforyou/p/3282922.html
+java读取excel之使用JXL包 - 简书
+https://www.jianshu.com/p/1da98d77880e
+jxl操作excel写入数据不覆盖原有数据示例_java_脚本之家
+https://www.jb51.net/article/48327.htm
+java 如何将字符串写入一个已有的excel表格中_百度知道
+https://zhidao.baidu.com/question/2202462087446356388.html
